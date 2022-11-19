@@ -1,0 +1,41 @@
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Allah Yönetim Paneli.exe.config
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Allah Yönetim Paneli.exe
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Allah Yönetim Paneli.pdb
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Allah Yönetim Paneli.xml
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.AssemblyReference.cache
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Form1.resources
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Form2.resources
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Resources.resources
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.GenerateResource.cache
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.CoreCompileInputs.cache
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.exe
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.xml
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.pdb
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Form3.resources
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Form4.resources
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Interop.WMPLib.dll
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Interop.WMPLib.dll
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\onurs\Desktop\bir takım işler\Allah Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.ResolveComReference.cache
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Allah Yönetim Paneli.exe.config
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Allah Yönetim Paneli.exe
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Allah Yönetim Paneli.pdb
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Allah Yönetim Paneli.xml
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\Interop.WMPLib.dll
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\bin\Debug\AxInterop.WMPLib.dll
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.AssemblyReference.cache
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.SuggestedBindingRedirects.cache
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Interop.WMPLib.dll
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\AxInterop.WMPLib.dll
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.ResolveComReference.cache
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Form1.resources
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Form2.resources
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Form3.resources
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Form4.resources
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah_Yönetim_Paneli.Resources.resources
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.GenerateResource.cache
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.vbproj.CoreCompileInputs.cache
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.exe
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.xml
+D:\diğer şeyler\Dünya Yönetim Paneli - God Panel\Dünya Yönetim Paneli\Allah Yönetim Paneli\obj\Debug\Allah Yönetim Paneli.pdb
